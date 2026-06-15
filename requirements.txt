@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scipy
+plotly
+openpyxl
+networkx
+kaleido
+playwright
